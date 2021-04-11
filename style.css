@@ -75,6 +75,7 @@ button:focus {
 }
 .igual{
     background-color: rgb(80, 206, 164);
+    grid-row: span 2;
 }
 .borrar{
     background-color: rgb(134, 53, 53);
